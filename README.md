@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Create a course selling app
 
  - Initialize a new Node.js project
@@ -17,3 +18,7 @@
   - Add a rate limiting middleware
   - Frontend in ejs (low pri)
   - Frontend in React
+=======
+# CourseSellingAPP
+An end-to-end online course selling web application built using Spring Boot (backend) and React (frontend) with seamless Razorpay integration, AI-powered customer support, and real-time user experience.
+>>>>>>> ffabcddb16bd7e16a0ed334295a1b86787b45b12
